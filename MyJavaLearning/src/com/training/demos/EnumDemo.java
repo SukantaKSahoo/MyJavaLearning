@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class EnumDemo {
 	enum Fruits {
-		APPLE, ORANGE, LICHI, PINEAPPLE, MANGO
+		APPLE, ORANGE, LICHI, PINEAPPLE, MANGO, TESTFOOD
 	}
 
 	public static void main(String[] args) {
